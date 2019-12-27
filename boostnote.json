@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "key": "19ffd8198a59e54f70cf",
+      "color": "#B013A4",
+      "name": "Python"
+    },
+    {
+      "key": "cefbdac13fadedadd0a6",
+      "color": "#E10051",
+      "name": "Django"
+    },
+    {
+      "key": "a5c69efd0ab48f3b651f",
+      "color": "#3FD941",
+      "name": "fdroid"
+    }
+  ],
+  "version": "1.0"
+}
